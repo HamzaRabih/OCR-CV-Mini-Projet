@@ -1,6 +1,6 @@
 # 🎯 Mini-Projet OCR - Structure organisée
 
-![alt text](image.png)
+![alt text](app.png)
 
 ---
 
