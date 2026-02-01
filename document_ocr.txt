@@ -1,0 +1,3 @@
+Ceci est un exemple de texte pour OCR.
+Lignes multiples, Tesseract devrait les d??tecter.
+Num??ro: 12345 | Date: 2026-02-01
